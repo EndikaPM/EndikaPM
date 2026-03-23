@@ -43,12 +43,13 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🕐 [ProyectoTimely / FrontenTimely](./ProyectoIntermodular/) | Proyecto intermodular de gestión de tiempo | Spring Boot · React · MySQL |
-| 📱 [Móvil](./Movil/) | Desarrollo de aplicaciones móviles | Android · Java |
-| 🗄️ [Acceso a Datos](./Acceso_a_Datos/) | Ejercicios de acceso y gestión de datos | Java · Python · SQL |
-| ⚙️ [PSP – Programación de Servicios](./PSP/) | Concurrencia, hilos y sockets | Java |
-| 🎨 [DIU – Diseño de Interfaces](./DIU/) | Diseño y prototipado de interfaces de usuario | Figma · HTML5 · CSS3 |
-| 📊 [Optativa – Ciencia de Datos](./Optativa/) | Análisis de datos con Python | Python · Pandas · Matplotlib |
+| 🕐 [ProyectoTimely](https://github.com/EndikaPM/Entrega-Proyecto-Intermodular) | Proyecto intermodular de gestión de tiempo | Spring Boot · React · MySQL |
+| 📱 [Móvil](https://github.com/EndikaPM/Desarroro-Multiplataforma-y-movil) | Desarrollo de aplicaciones móviles | Android · Java |
+| 🗄️ [Acceso a Datos](https://github.com/EndikaPM/AccesoDatos) | Ejercicios de acceso y gestión de datos | Java · Python · SQL |
+| ⚙️ [PSP – Programación de Servicios](https://github.com/EndikaPM/PSP) | Concurrencia, hilos y sockets | Java |
+| 🎨 [DIU – Diseño de Interfaces](https://github.com/EndikaPM/DIU) | Diseño y prototipado de interfaces de usuario | Figma · HTML5 · CSS3 |
+| 📊 [Ciencia de Datos](https://github.com/EndikaPM/2DAM/tree/main/Optativa) | Análisis de datos con Python | Python · Pandas · Matplotlib |
+| 📊 [2º DAM](https://github.com/EndikaPM/2DAM) | Repositorio general de segundo curso | Java · Python · SQL |
 
 ---
 
