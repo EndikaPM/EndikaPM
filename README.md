@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma) 🎓</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Estudiante+de+2%C2%BA+DAM;Apasionado+del+desarrollo;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Estudiante+de+2%C2%BA+DAM;Apasionado+del+desarrollo;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </p>
 
 ---
