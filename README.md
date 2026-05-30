@@ -55,9 +55,7 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EndikaPM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndikaPM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=EndikaPM&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EndikaPM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
