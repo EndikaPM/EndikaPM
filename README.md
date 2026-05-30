@@ -68,6 +68,7 @@ Si buscas a alguien con iniciativa, capacidad de adaptación y pasión por el c�
   <a href="https://github.com/EndikaPM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-EndikaPM-%23181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/endika-perez-mas-9b39372a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Endika-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
